@@ -52,34 +52,34 @@
 7. Recompose Conditional
 8. Remove Assignments to Parameters
 9. Remove Control Flag
-Remove Middle Man
-Remove Named Parameter
-Remove Parameter
-Remove Setting Method
-Remove Unused Default Parameter
-Rename Method
-Replace Abstract Superclass with Module
-Replace Array with Object
-Replace Conditional with Polymorphism
-Replace Constructor with Factory Method
-Replace Data Value with Object
-Replace Delegation With Hierarchy
-Replace Delegation with Inheritance
-Replace Dynamic Receptor with Dynamic Method Definition
-Replace Error Code with Exception
-Replace Exception with Test
-Replace Hash with Object
-Replace Inheritance with Delegation
-Replace Loop with Collection Closure Method
-Replace Magic Number with Symbolic Constant
-Replace Method with Method Object
-Replace Nested Conditional with Guard Clauses
-Replace Parameter with Explicit Methods
-Replace Parameter with Method
-Replace Record with Data Class
-Replace Subclass with Fields
-Replace Temp with Chain
-Replace Temp with Query
-Replace Type Code with Class
-Replace Type Code with Module Extension
-Replace Type Code With Polymorphism
+1. Remove Middle Man
+2. Remove Named Parameter
+3. Remove Parameter
+4. Remove Setting Method
+5. Remove Unused Default Parameter
+6. Rename Method
+7. Replace Abstract Superclass with Module
+8. Replace Array with Object
+9. Replace Conditional with Polymorphism
+1. Replace Constructor with Factory Method
+2. Replace Data Value with Object
+3. Replace Delegation With Hierarchy
+4. Replace Delegation with Inheritance
+5. Replace Dynamic Receptor with Dynamic Method Definition
+6. Replace Error Code with Exception
+7. Replace Exception with Test
+8. Replace Hash with Object
+9. Replace Inheritance with Delegation
+1. Replace Loop with Collection Closure Method
+2. Replace Magic Number with Symbolic Constant
+3. Replace Method with Method Object
+4. Replace Nested Conditional with Guard Clauses
+5. Replace Parameter with Explicit Methods
+6. Replace Parameter with Method
+7. Replace Record with Data Class
+8. Replace Subclass with Fields
+9. Replace Temp with Chain
+1. Replace Temp with Query
+2. Replace Type Code with Class
+3. Replace Type Code with Module Extension
+4. Replace Type Code With Polymorphism

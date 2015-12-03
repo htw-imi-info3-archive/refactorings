@@ -1,0 +1,85 @@
+1. Add Parameter
+1. Duplicate Observed Data
+1. Extract Module
+1. Inline Method
+1. Introduce Named Parameter
+1. Preserve Whole Object
+1. Remove Middle Man
+1. Replace Constructor with Factory Method
+1. Replace Loop with Collection Closure Method
+1. Replace Temp with Query
+2. Change Bidirectional Association to Unidirectional
+2. Dynamic Method Definition
+2. Extract Subclass
+2. Inline Module
+2. Introduce Null Object
+2. Pull Up Constructor Body
+2. Remove Named Parameter
+2. Replace Data Value with Object
+2. Replace Magic Number with Symbolic Constant
+2. Replace Type Code with Class
+3. Change Reference to Value
+3. Eagerly Initialized Attribute
+3. Extract Superclass
+3. Inline Temp
+3. Introduce Parameter Object
+3. Pull Up Field
+3. Remove Parameter
+3. Replace Delegation With Hierarchy
+3. Replace Method with Method Object
+3. Replace Type Code with Module Extension
+4. Change Unidirectional Association to Bidirectional
+4. Encapsulate Collection
+4. Extract Surrounding Method
+4. Introduce Assertion
+4. Isolate Dynamic Receptor
+4. Pull Up Method
+4. Remove Setting Method
+4. Replace Delegation with Inheritance
+4. Replace Nested Conditional with Guard Clauses
+4. Replace Type Code With Polymorphism
+5. Change Value to Reference
+5. Encapsulate Downcast
+5. Extract Variable
+5. Introduce Class Annotation
+5. Lazily Initialized Attribute
+5. Push Down Field
+5. Remove Unused Default Parameter
+5. Replace Dynamic Receptor with Dynamic Method Definition
+5. Replace Parameter with Explicit Methods
+6. Collapse Hierarchy
+6. Encapsulate Field
+6. Form Template Method
+6. Introduce Expression Builder
+6. Move Eval from Runtime to Parse Time
+6. Push Down Method
+6. Rename Method
+6. Replace Error Code with Exception
+6. Replace Parameter with Method
+7. Consolidate Conditional Expression
+7. Extract Class
+7. Hide Delegate
+7. Introduce Foreign Method
+7. Move Field
+7. Recompose Conditional
+7. Replace Abstract Superclass with Module
+7. Replace Exception with Test
+7. Replace Record with Data Class
+8. Consolidate Duplicate Conditional Fragments
+8. Extract Interface
+8. Hide Method
+8. Introduce Gateway
+8. Move Method
+8. Remove Assignments to Parameters
+8. Replace Array with Object
+8. Replace Hash with Object
+8. Replace Subclass with Fields
+9. Decompose Conditional
+9. Extract Method
+9. Inline Class
+9. Introduce Local Extension
+9. Parameterize Method
+9. Remove Control Flag
+9. Replace Conditional with Polymorphism
+9. Replace Inheritance with Delegation
+9. Replace Temp with Chain
